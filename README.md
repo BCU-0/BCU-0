@@ -3,5 +3,7 @@
 </p>
 
 ---
-
+<p align="center">
+   <img src="「代码是世界上最神圣的语言」"/>
+</p
 # 一名普通的 Minecraft 玩家
