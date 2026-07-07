@@ -16,7 +16,7 @@
 
 ### 🥱 关于我
 
-就是个玩 Minecraft 的，会 Python 和一点 Java ，没什么特别之处，平时就这几件事
+就是个玩 Minecraft 的，会 Python 和一点 Java ，没什么特别之处，平时的话...
 
 - 🤓 翻翻服务器日志，检查服务器状态
 - 🤗 看看 GitHub 热门项目
