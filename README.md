@@ -46,3 +46,6 @@
 </p>
 
 ![Organization](https://img.shields.io/badge/github-BZ--XXX-blue?logo=github)
+
+> **组织**
+> *BZ-XXX*:自建组织，本人大多数仓库都在这里
