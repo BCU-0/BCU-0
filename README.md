@@ -37,4 +37,6 @@
 <p>
   <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white" />
 </p>
-
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
