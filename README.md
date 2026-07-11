@@ -48,8 +48,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/github-BZ--XXX-blue?logo=github&style=for-the-badge" alt="Organization Badge" />
+  <img src="https://img.shields.io/badge/github-BC-809-blue?logo=github&style=for-the-badge" alt="Organization Badge" />
 </p>
 
 > **组织简介**  
-> *BZ-XXX*: 自建组织，本人大多数仓库都在这里，欢迎来参观和交流。
+> *BC-809*: 自建组织，本人大多数仓库都在这里，欢迎来参观和交流。
