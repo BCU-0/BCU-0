@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/github-BC-809-blue?logo=github&style=for-the-badge" alt="Organization Badge" />
+  <img src="https://img.shields.io/badge/github-BC--809-blue?logo=github&style=for-the-badge" alt="Organization Badge" />
 </p>
 
 > **组织简介**  
